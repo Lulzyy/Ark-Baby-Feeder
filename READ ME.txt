@@ -1,0 +1,15 @@
+YOU NEED AUTO HOTKEY FOR THIS TO WORK, THE DOWNLOAD IS IN THE FOLDER | https://www.autohotkey.com
+
+"GLOBAL SLEEP TIME (ms)" IS HOW LONG IT WILL WAIT FOR TO CLICK EACH BUTTON WITHIN THE SCRIPT, YOU HAVE TO BASE IT OFF OF THE PING ON YOUR SERVER - 90 ping ~ 500 ms
+
+X,Y1 (local inventory slot) your characters search bar
+X,Y2 (local transfer all) your characters transfer all button
+X,Y3 (exit inventory) the top right of a dinos inventory with the X to exit inventory
+
+TO GET YOUR SCREENS COORDS - TAKE A SCREENSHOT AND THEN PUT IT IN PAINT, USE THE DRAWING TOOL AND IT WILL SHOW THE PIXELSxPIXELS ON THE BOTTOM LEFT,
+MAKE SURE YOU ARE ALL THE WAY UP ON TOP OF THE PASTED IMAGE OF YOUR ARK SCREEN SHOT TO GET CORRECT COORDS. 
+
+this is still a work in progress and has some bugs, one that is known is if you change the hotkey after you have already started the script, the script will run off both hotkeys
+i personally use "F" as its my open dino inventory button and it just does it all after hitting "F"
+
+If you have any issues dm me on discord - Lulzy_
